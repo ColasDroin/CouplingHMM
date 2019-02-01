@@ -2,6 +2,8 @@
 
 This project aims to study the influence of the cell-cycle on the circadian clock using a Hidden Markov Model for inference, and a Expectation-Maximization method for parameters optimization. Most of the figures on the paper *Low-dimensional Dynamics of Two Coupled Biological Oscillators* published in ___ can be recreated from this code. The most important computations are made in the main scripts located in the folder "Scripts", but some supplementary analysis are done in the folder "SupplementaryAnalysis", as well as "RawDataAnalysis".
 
+**NB**: for tracibility purposes, the data is currently not available in this repository, but will be provided on request.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for reproducibility purposes.
